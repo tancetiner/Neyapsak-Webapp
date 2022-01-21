@@ -27,7 +27,7 @@ We followed the agile software development throughout this project. A teaching a
 * Storing the code            -->   Bitbucket
 
 ### Collaboration
-This was a group project. We had 3 members. Although we were aware of the 'big picture', as we were using some technologies that we've no experience with before, we tried to divide them to focus more and master them. I was mainly responsible for the backend, coding the views, and configuring the URLs in Django. 
+This was a group project. We had 3 members. Dora Akbulut, [Batuhan Yıldırım](https://github.com/Batuhanyldirim) and me. Although we were aware of the 'big picture', as we were using some technologies that we've no experience with before, we tried to divide them to focus more and master them. I was mainly responsible for the backend, coding the views, and configuring the URLs in Django. 
 
 ### Features
 These are from our sprint tasks. 
