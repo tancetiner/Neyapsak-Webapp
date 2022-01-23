@@ -1,5 +1,6 @@
 # NeYapsak Webapp
 NeYapsak is a web application that enables users to check the activities in their location based on some filters, save them and buy tickets!
+'Ne Yapsak?' means 'What to do?' in Turkish. So this is the application to answer this crucial question!
 
 ### Table of contents
 
