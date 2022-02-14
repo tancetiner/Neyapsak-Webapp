@@ -56,4 +56,47 @@ Throughout the semester we worked on the project on our private Bitbucket reposi
 ### Screenshots
 
 
+Login Screen:
+
+
+![login](/screenshots/loginScreen.png)
+
+Home Screen:
+Here we can either make a search with the event name from the search bar, choose the type by pressing one of the images (festival, concert and theater). Also, we can view the recommendations application giving us based on our location.
+
+
+
+
+![home](/screenshots/homeScreen.png)
+
+
+Advanced Search:
+User can search for the events with city, minimum and maximum price. Here we can see that user found an event by selecting 'Sinop' as the city.
+
+
+
+
+![advancedSearch](/screenshots/searchResult.png)
+
+
+Event Detail Screen:
+Here user can see the details of the event, save the event for later, buy tickets.
+
+
+
+
+![eventDetail](/screenshots/eventDetail.png)
+
+Organiser Profile:
+Here organiser users can edit or delete their own events. Regular users do not have that feature.
+
+
+
+
+![organiser](/screenshots/organiserProfile.png)
+
+
+
+
+
 
